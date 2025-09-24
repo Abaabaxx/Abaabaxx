@@ -20,8 +20,8 @@ I am an undergraduate student with a strong passion for embodied intelligence.
 
 ## Competitions
 
-- **2025 National Undergraduate Intelligent Vehicle Competition**: iFlytek Creative Group · *National Second Prize* · Team Leader
-- **2025 RAICOM Robotics Developer Competition (RAICOM)**: ROS Virtual-Physical Robot Challenge · *National First Prize (4th Place)* · Team Leader
+- **[2025 National Undergraduate Intelligent Vehicle Competition](https://github.com/Abaabaxx/UCAR)**: iFlytek Creative Group – *National Second Prize* (Team Leader)
+- **[2025 RAICOM Robotics Developer Competition](https://github.com/Abaabaxx/UCAR)**: ROS Virtual-Physical Robot Challenge – *National First Prize (4th Place)* (Team Leader)
 - **2025 China International College Students’ “Internet+” Innovation and Entrepreneurship Competition**: *Embodied Care – Commercial Leader in Home-based Elderly Care Robots* · *Henan Provincial Gold Award*
 - **2025 China Robotics Competition & RoboCup China Open**: Intelligent Vehicle Challenge (1:12 Scale Model Group) · *Advanced to Nationals*
 - **2025 China Robotics Competition & RoboCup China Open**: Public Safety – Reconnaissance Robot · *Advanced to Nationals*
