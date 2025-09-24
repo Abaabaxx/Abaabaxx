@@ -29,7 +29,7 @@
 
 ## 研究兴趣
 
-➡️ **[我的研究兴趣心路：从工程挑战到学术探索](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fyour_username%2Fyour_story_repo)**
+➡️ **[我的研究兴趣心路：从工程挑战到学术探索](https://github.com/Abaabaxx/Abaabaxx/blob/main/Statement_of_Research_Interests_CN.md)**
 
 - **端到端学习 (VLA, RL/IL)：** 用于鲁棒的机器人感知与控制策略学习
 - **神经场景表示 (NeRF, 3D GS)：** 构建机器人对三维世界的内部模型
