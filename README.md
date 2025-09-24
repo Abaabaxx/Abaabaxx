@@ -30,7 +30,7 @@ I am an undergraduate student with a strong passion for embodied intelligence.
 
 ## Research Interests
 
-➡️ **[My Research Journey: From Engineering Challenges to Academic Exploration](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fyour_username%2Fyour_story_repo)**
+➡️ **[My Research Journey: From Engineering Challenges to Academic Exploration](https://github.com/Abaabaxx/Abaabaxx/blob/main/Statement_of_Research_Interests.md)**
 
 - **End-to-End Learning (VLA, RL/IL):** Developing robust robot perception and control strategies
 - **Neural Scene Representations (NeRF, 3D Gaussian Splatting):** Building internal models of the 3D world for robots
